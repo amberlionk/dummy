@@ -1,0 +1,19 @@
+{
+  "name": "dummy",
+  "version": "0.0.2",
+  "description": "dummy nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amberlionk/dummy.git"
+  },
+  "author": "Yevhen Denesiuk <amberlionk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amberlionk/dummy/issues"
+  },
+  "homepage": "https://github.com/amberlionk/dummy#readme"
+}
